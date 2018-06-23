@@ -16,7 +16,7 @@ function ColumnChart() {
 			indexLabelFontColor: "#5A5757",
 			indexLabelPlacement: "outside",
 			dataPoints: [
-				{ x: 10, y: 71 },
+				{ x: 10, y: 75 },
 				{ x: 20, y: 55 },
 				{ x: 30, y: 50 },
 				{ x: 40, y: 65 },
